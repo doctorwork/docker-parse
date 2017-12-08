@@ -1,8 +1,8 @@
 {
 	"users": [
 		{
-			"username": "root",
-			"password": "rootdw2017"
+			"user": "root",
+			"pass": "rootdw2017"
 		}
 	],
 	"apps": [
